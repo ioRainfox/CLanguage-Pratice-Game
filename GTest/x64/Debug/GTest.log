@@ -1,0 +1,5 @@
+﻿  소스.cpp
+C:\Users\dongh\source\repos\GTest\GTest\소스.cpp(767,18): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\dongh\source\repos\GTest\GTest\소스.cpp(767,23): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\dongh\source\repos\GTest\GTest\소스.cpp(773,65): warning C4267: '인수': 'size_t'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  GTest.vcxproj -> C:\Users\dongh\source\repos\GTest\x64\Debug\GTest.exe
